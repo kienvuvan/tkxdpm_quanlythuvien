@@ -1,0 +1,4 @@
+AM1;;;BK;Đại học Bách Khoa;AM;Tự Động Hóa;0
+AM1;A;;BK;Đại học Bách Khoa;AM;Tự Động Hóa;0
+AM1;;;DHQG;Đại học Quốc gia;AM;Tự Động Hóa;0
+OL3;Xác xuất thống kê;Nguyễn Văn Thịnh;BK;Đại học Bách Khoa;OL;Đại Cương;1

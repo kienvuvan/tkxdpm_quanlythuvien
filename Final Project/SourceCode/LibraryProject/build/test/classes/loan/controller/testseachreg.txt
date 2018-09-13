@@ -1,0 +1,5 @@
+E;;;All;All;4
+O;;;All;All;2
+E;A;;All;All;2
+;A;;All;All;8
+;A;;Đại học Bách Khoa;All;4

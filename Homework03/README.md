@@ -1,0 +1,2 @@
+# TKXDPM.20172-11
+Phân công bài tập tuần 3: Vũ Văn Kiên: làm phần 1. Đăng ký mượn sách, Xem danh sách mượn sách, Huỷ đăng ký mượn sách + ý 4: cập nhật thông tin thẻ Nguyễn Thị Linh: làm phần 3. Nhận trả sách, Tìm kiếm thông tin trả, Thêm sách + ý 4: Tìm kiếm sách Thân Tài Linh làm phần 2 : Cho mượn sách, Tìm kiếm thông tin mượn, Thêm bản sao + ý 4 : Phát hành thẻ Phần làm chung : Use case tổng quan của bài toán.

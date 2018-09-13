@@ -1,0 +1,4 @@
+false;""
+false;ssjsj
+true;BCLIBRARY2
+true;BCLIBRARY1
